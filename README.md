@@ -11,7 +11,14 @@ O trabalho foi desenvolvido para obtenção de terceira nota da cadeira de Redes
 ## Organização do trabalho
 
 ### Arquivo .pkt
-<Arquivo pkt>
+Cada estrutura de rede foi montada para ter uma particularidade para se diferenciar das outras redes presentes no projeto.
+> #### Parte Superior
+>> ![Projeto parte 1](https://user-images.githubusercontent.com/75092912/209442755-b6d13274-387f-420f-94cc-1c394defbc2f.jpg)
+
+> #### Parte Inferior
+>> ![Projeto parte 2](https://user-images.githubusercontent.com/75092912/209442765-70123e56-e54f-4add-a253-0c2c6db04f38.jpg)
+
+
 
 ### Arquivo .xlsx
 <Arquivo .xlsx>
